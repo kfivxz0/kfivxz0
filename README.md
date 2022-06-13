@@ -1,4 +1,5 @@
-## 201916048
+## MinKyu Lee
+201916048 
 
 * Stop Watch
 * Table View Controller
